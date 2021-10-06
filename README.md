@@ -1,4 +1,4 @@
 # Minecraft
-Minecraft for IOS and Android
+Minecraft Remade for PC
 
-Remade in Scratch, sorry I just found out that you can't see your cursor, I will fix it in the next release.
+Remade in Scratch, there are still some bugs :)
